@@ -3,6 +3,7 @@
 A premium, modern single-page website for a dental clinic. Built as a fast, responsive SaaS-style landing experience with smooth animations and a cohesive visual design.
 
 ## About
+<img width="971" height="829" alt="image" src="https://github.com/user-attachments/assets/76b54eeb-8ed5-4243-b050-175979862166" />
 
 This project showcases professional dental services for **Dental Health**, a clinic focused on quality healthcare in West New York. The site highlights core offerings such as cosmetic dentistry, smile makeovers, veneers, crowns, whitening, implants, and restoration services.
 
