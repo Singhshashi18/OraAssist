@@ -12,7 +12,7 @@ This project showcases professional dental services for **Dental Health**, a cli
 
 An AI assistant for guided consultations and appointment booking is planned as a future integration.
 
-## Features 
+## Features  
 
 - **Animated splash screen** — Count-up intro (0–100) with fade-out transition
 - **Fixed navbar** — Desktop menu and animated mobile slide-out navigation
