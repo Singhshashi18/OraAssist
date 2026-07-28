@@ -33,7 +33,7 @@ An AI assistant for guided consultations and appointment booking is planned as a
 | Language | TypeScript |
 | Styling | Tailwind CSS 3 |
 | Font | Open Sauce One |
-
+ 
 No external UI or icon libraries — the entire landing page lives in a single `App.tsx` file.
 
 ## Getting Started
