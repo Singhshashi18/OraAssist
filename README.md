@@ -4,7 +4,7 @@ A premium, modern single-page website for a dental clinic. Built as a fast, resp
 
 ## About
 <img width="971" height="829" alt="image" src="https://github.com/user-attachments/assets/76b54eeb-8ed5-4243-b050-175979862166" />
-<img width="928" height="862" alt="image" src="https://github.com/user-attachments/assets/89f97650-2312-44c2-86a5-aa779897f220" />
+<img width="928" height="862" alt="image" src="https://github.com/user-attachments/assets/89f97650-2312-44c2-86a5-aa779897f220" /> 
 <img width="931" height="859" alt="image" src="https://github.com/user-attachments/assets/19927390-e996-4bcc-bb61-23b80f0c100b" />
  
 
